@@ -1,4 +1,4 @@
-# <h1 style="font-size: 28px;">WeatherApp - SwiftUI | CoreData | Combine</h1>
+# <h1 style="font-size: 28px;">WeatherApp - SwiftUI | CoreData | Combine</h1> | Support Dark Mode
 
 <p style="font-size: 18px;">This is a WeatherApp developed using SwiftUI, CoreData, and Combine. It uses the WeatherAPI for fetching weather data.</p>
 
